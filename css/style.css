@@ -11,7 +11,7 @@ body {
 	font-size: 14px;
 	line-height: 24px;
 
-	background: # url("") no-repeat 50% 3px;
+	background: #000000 url("../img/bg-img.jpg") no-repeat 50% 3px;
 	background-size: 1122px auto;
 }
 
